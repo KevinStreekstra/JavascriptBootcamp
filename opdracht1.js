@@ -1,3 +1,5 @@
+//opdracht 1 t/m 4
+
 var variableone = 1;
 var variabletwo = 2;
 var variablethree = 3;
@@ -16,12 +18,11 @@ var variablefiveteen = 15;
 var variablesixteen = true;
 var variableseventeen = "Bart RechterBerg";
 
+//opdracht 5 t/m 8
+
 variableone = "one";
 variabletwo = "two";
 variabletwelve = "12";
-
-
-console.log(one);
 
 console.log(typeof(one));
 console.log(variablethree + variablefour);
@@ -30,6 +31,8 @@ console.log(variableeleven + variabletwelve);
 console.log(variablesixteen + variablefiveteen);
 console.log(variablefiveteen + variabletwelve);
 console.log(typeof(two));
+
+//opdracht 9 t/m 14
 
 function VAnaam() {
   var vn1 = Bart;
